@@ -1,6 +1,3 @@
-import re
-
-
 class StringCalculator():
     def add(self,string):
         if string == '':
